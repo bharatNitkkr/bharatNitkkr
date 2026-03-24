@@ -4,7 +4,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bharat_theCoder?ext=contest)
 
 ## Weekly Contest Participation
-- Weekly Contest ___ → Rank: ___
+- Weekly Contest 494 → Rank: 16598
 
 ## Skills
 - Data Structures & Algorithms
